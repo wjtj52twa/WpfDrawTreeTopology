@@ -2,6 +2,8 @@
 
 This is an application for topology drawing of tree-structured data in WPF. It reads “data.json” directly under the executable file and draws the topology. The topology can be drawn vertically or horizontally.
 
+![fig1](fig1.png)
+![fig2](fig2.png)
 
 ## Enviroment
 
