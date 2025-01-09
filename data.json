@@ -1,0 +1,52 @@
+{
+  "Text": "Root",
+  "Children": [
+    {
+      "Text": "Node1",
+      "Children": [
+        {
+          "Text": "Node1-1",
+          "Children": []
+        },
+        {
+          "Text": "Node1-2",
+          "Children": []
+        },
+        {
+          "Text": "Node1-2",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Text": "Node2",
+      "Children": [
+        {
+          "Text": "Node2-1",
+          "Children": []
+        },
+        {
+          "Text": "Node2-2",
+          "Children": [
+            {
+              "Text": "Node2-2-1",
+              "Children": []
+            },
+            {
+              "Text": "Node2-2-2",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Text": "Node2-2",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Text": "Node3",
+      "Children": []
+    }
+  ]
+}
